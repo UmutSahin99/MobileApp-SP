@@ -1,4 +1,4 @@
-# MobShop
+# ShipShop
 
 Bu uygulama Software Persona staj çıktısı olarak hazırlanmış mobil bir satın alım uygulamasıdır.
 
